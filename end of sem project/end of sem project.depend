@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1544478302 source:c:\users\geoffrey\documents\c++\end of sem project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"std.h"
+	"staff.h"
+	"reslt.h"
+	"course.h"
+
+1544473948 c:\users\geoffrey\documents\c++\end of sem project\std.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1544226235 c:\users\geoffrey\documents\c++\end of sem project\staff.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1543836150 c:\users\geoffrey\documents\c++\end of sem project\result.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1544478509 c:\users\geoffrey\documents\c++\end of sem project\course.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1544526871 c:\users\geoffrey\documents\c++\end of sem project\reslt.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
